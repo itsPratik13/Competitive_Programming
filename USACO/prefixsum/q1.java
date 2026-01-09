@@ -52,6 +52,6 @@ class Solution {
             list.add(Arrays.asList(ct1,ct2,ct3));
         }
         return list;
-
+   
     }
 }
